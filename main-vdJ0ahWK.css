@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Neue Montreal;
+    src: url("PPNeueMontreal-Medium-Pi15C3LE.woff") format("woff"), url("PPNeueMontreal-Medium-NKrIjMsi.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: auto
+}
+
+@font-face {
+    font-family: IBM Plex Mono;
+    src: url("") format("woff"), url("") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: auto
+}

@@ -1,0 +1,33 @@
+{
+  "provider": "CHAINFLIP_STREAMING",
+  "chainId": "solana",
+  "name": "CHAINFLIP_STREAMING",
+  "timestamp": "2025-04-07T16:31:02.123Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "keywords": [],
+  "count": 2,
+  "tokens": [
+    {
+      "chain": "SOL",
+      "chainId": "solana",
+      "name": "Solana",
+      "ticker": "SOL",
+      "decimals": 9,
+      "symbol": "SOL",
+      "identifier": "SOL.SOL",
+      "logoURI": "https://storage.googleapis.com/token-list-swapkit/images/sol.sol.png",
+      "coingeckoId": "solana"
+    },
+    {
+      "chain": "SOL",
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "chainId": "solana",
+      "name": "Solana USDC",
+      "ticker": "USDC",
+      "decimals": 6,
+      "symbol": "USDC-EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "identifier": "SOL.USDC-EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "logoURI": "https://storage.googleapis.com/token-list-swapkit/images/sol.usdc-epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v.png"
+    }
+  ]
+}
